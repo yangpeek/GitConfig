@@ -1,0 +1,2 @@
+git rebase --onto <commit-id>^ <commit-id> HEAD
+to remove a commit-id from the repo
